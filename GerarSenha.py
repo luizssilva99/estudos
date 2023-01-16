@@ -1,6 +1,6 @@
 import random
 
-minusculas = '[abcdefghijklmnopqrstuvwxyz]'
+minusculas = 'abcdefghijklmnopqrstuvwxyz'
 maiusculas = minusculas.upper()
 simbolos = '._-@*#$%'
 
